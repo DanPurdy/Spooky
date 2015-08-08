@@ -1,3 +1,9 @@
+# Spooky
+
+A theme based off of the default Casper theme.
+
+Work in progress
+
 # Casper
 
 The default theme for [Ghost](http://github.com/tryghost/ghost/).
